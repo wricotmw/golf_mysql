@@ -1,0 +1,6 @@
+30/10/23
+setup project, copy models, setup app in settings.py, setup database for mysql, install mysqlclient, makemigrations and migrate
+31/10/23
+Create urls.py views.py (home), templates and home.html ok.
+Create superuser admin ar 
+register models so they appear in admin
