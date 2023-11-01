@@ -4,3 +4,7 @@ setup project, copy models, setup app in settings.py, setup database for mysql, 
 Create urls.py views.py (home), templates and home.html ok.
 Create superuser admin ar 
 register models so they appear in admin
+1/11/23
+create git repository and push code up to git hub
+copy url, view, forms, html for add golfer with no base.html or navbar 
+as above to copy add scores
