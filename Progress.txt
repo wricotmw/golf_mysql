@@ -8,3 +8,11 @@ register models so they appear in admin
 create git repository and push code up to git hub
 copy url, view, forms, html for add golfer with no base.html or navbar 
 as above to copy add scores
+push to git hub
+
+4/11/2023
+copy url, view, html, for all_scores minus base.html and navbar
+copy url, view, html, for league table minus base.html and navbar
+
+5/11/23
+Insert base.html Insert navbar.html

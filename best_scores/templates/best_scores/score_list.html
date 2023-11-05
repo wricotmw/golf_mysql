@@ -1,0 +1,19 @@
+{% extends 'best_scores/base.html' %}
+{% block content %}
+  <center>
+
+
+{% for x in score_list %} 
+    
+    {{ x.score_date }} {{ x.name }} {{ x.score }}<br>
+
+    <br>
+{% endfor %}
+   
+
+
+
+ 
+ 
+  </center>
+{%  endblock %}
